@@ -1,21 +1,21 @@
-idCliente, nombre, edad, telefono, sexo, tieneTitulo
-101, Juan, 30, 3148596584, M, true
-102, Maria, 25, 3151234567, F, false
-103, Pedro, 35, 3179876543, M, true
-104, Camilo, 28, 3123456789, F, false
-105, Sebastian, 32, 3198765432, M, true
-106, Jose, 22, 3187654321, F, false
-107, Karina, 38, 3112345678, M, true
-108, Andrea, 26, 3145678901, F, false
-109, Maria, 34, 3167890123, M, true
-110, Esteban, 29, 3156789012, F, false
-111, Oscar, 31, 3134567890, M, true
-112, Julian, 27, 3123456789, F, false
-113, Stefany, 33, 3178901234, M, true
-114, Santiago, 23, 3190123456, F, false
-115, Paola, 39, 3189012345, M, true
-116, Manuel, 24, 3145678901, F, false
-117, Gonzalo, 36, 3156789012, M, true
-118, Sara, 30, 3178901234, F, false
-119, Miguel, 40, 3109876543, M, true
-120, Ana Maria, 25, 3112345678, F, false
+idCliente,nombre,edad,telefono,sexo,tieneTitulo
+101,Juan,30,3148596584,M,true
+102,Maria,25,3151234567,F,false
+103,Pedro,35,3179876543,M,true
+104,Camilo,28,3123456789,F,false
+105,Sebastian,32,3198765432,M,true
+106,Jose,22,3187654321,F,false
+107,Karina,38,3112345678,M,true
+108,Andrea,26,3145678901,F,false
+109,Maria,34,3167890123,M,true
+110,Esteban,29,3156789012,F,false
+111,Oscar,31,3134567890,M,true
+112,Julian,27,3123456789,F,false
+113,Stefany,33,3178901234,M,true
+114,Santiago,23,3190123456,F,false
+115,Paola,39,3189012345,M,true
+116,Manuel,24,3145678901,F,false
+117,Gonzalo,36,3156789012,M,true
+118,Sara,30,3178901234,F,false
+119,Miguel,40,3109876543,M,true
+120,Ana Maria,25,3112345678,F,false
